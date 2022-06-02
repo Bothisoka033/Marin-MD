@@ -54,25 +54,25 @@ global.APIKeys = { // APIKey Here
   'https://pencarikode.xyz': 'pais', 
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://zekais-api.herokuapp.com': 'apikeymu',
-  'https://api.lolhuman.xyz': 'apikeymu',
+  'https://api.lolhuman.xyz': 'Fiktod',
 }
 //cari apikey sendiri ya gaes yak
 
 // Sticker WM
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = 'stickerby'
-global.author = `Ｍａｒｉｎ－ＭＤ
+global.author = `𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘－𝙱𝚘𝚝
 
 
 
 
 
 ig: senpai_chan_gemoy`
-global.wm = 'Ｍａｒｉｎ－ＭＤ'
+global.wm = '𝚈𝚞𝚔𝚒𝚗𝚒𝚔𝚘－𝙱𝚘𝚝'
 global.watermark = wm
 global.botdate = `╭──────────═┅═─────────\n│◪ ${time}\n┊◪ ${week} ${date}\n╰──────────═┅═─────────`
 global.media = 'https://telegra.ph/file/ccb2359d3925fd7af58cd.jpg'
-global.instagram = 'https://instagram.com/senpai_chan_gemoy'
+global.instagram = 'https://instagram.com/𝙵𝚒𝚔𝚛𝚒𝚒𝚂𝚔𝚢'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=crafts-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23401620&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
